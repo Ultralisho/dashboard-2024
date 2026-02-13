@@ -1,0 +1,194 @@
+[
+  {
+    "id": "t1",
+    "name": "Team Liquid",
+    "game": "League of Legends",
+    "region": "North America",
+    "wins": 342,
+    "losses": 178,
+    "totalMatches": 520,
+    "winRate": 65.77,
+    "founded": 2015,
+    "yearlyStats": [
+      { "year": 2023, "wins": 98, "losses": 52, "tournaments": 8 },
+      { "year": 2024, "wins": 124, "losses": 64, "tournaments": 10 },
+      { "year": 2025, "wins": 120, "losses": 62, "tournaments": 9 }
+    ]
+  },
+  {
+    "id": "t2",
+    "name": "FaZe Clan",
+    "game": "Counter-Strike 2",
+    "region": "Europe",
+    "wins": 456,
+    "losses": 213,
+    "totalMatches": 669,
+    "winRate": 68.16,
+    "founded": 2010,
+    "yearlyStats": [
+      { "year": 2023, "wins": 145, "losses": 67, "tournaments": 12 },
+      { "year": 2024, "wins": 158, "losses": 72, "tournaments": 13 },
+      { "year": 2025, "wins": 153, "losses": 74, "tournaments": 11 }
+    ]
+  },
+  {
+    "id": "t3",
+    "name": "OG Esports",
+    "game": "Dota 2",
+    "region": "Europe",
+    "wins": 298,
+    "losses": 142,
+    "totalMatches": 440,
+    "winRate": 67.73,
+    "founded": 2015,
+    "yearlyStats": [
+      { "year": 2023, "wins": 89, "losses": 43, "tournaments": 7 },
+      { "year": 2024, "wins": 104, "losses": 48, "tournaments": 9 },
+      { "year": 2025, "wins": 105, "losses": 51, "tournaments": 8 }
+    ]
+  },
+  {
+    "id": "t4",
+    "name": "Sentinels",
+    "game": "Valorant",
+    "region": "North America",
+    "wins": 387,
+    "losses": 198,
+    "totalMatches": 585,
+    "winRate": 66.15,
+    "founded": 2020,
+    "yearlyStats": [
+      { "year": 2023, "wins": 118, "losses": 62, "tournaments": 9 },
+      { "year": 2024, "wins": 134, "losses": 68, "tournaments": 11 },
+      { "year": 2025, "wins": 135, "losses": 68, "tournaments": 10 }
+    ]
+  },
+  {
+    "id": "t5",
+    "name": "Cloud9",
+    "game": "League of Legends",
+    "region": "North America",
+    "wins": 412,
+    "losses": 245,
+    "totalMatches": 657,
+    "winRate": 62.71,
+    "founded": 2013,
+    "yearlyStats": [
+      { "year": 2023, "wins": 128, "losses": 77, "tournaments": 10 },
+      { "year": 2024, "wins": 142, "losses": 84, "tournaments": 12 },
+      { "year": 2025, "wins": 142, "losses": 84, "tournaments": 11 }
+    ]
+  },
+  {
+    "id": "t6",
+    "name": "Natus Vincere",
+    "game": "Counter-Strike 2",
+    "region": "Europe",
+    "wins": 523,
+    "losses": 187,
+    "totalMatches": 710,
+    "winRate": 73.66,
+    "founded": 2009,
+    "yearlyStats": [
+      { "year": 2023, "wins": 167, "losses": 58, "tournaments": 14 },
+      { "year": 2024, "wins": 178, "losses": 64, "tournaments": 15 },
+      { "year": 2025, "wins": 178, "losses": 65, "tournaments": 14 }
+    ]
+  },
+  {
+    "id": "t7",
+    "name": "T1",
+    "game": "League of Legends",
+    "region": "Asia",
+    "wins": 589,
+    "losses": 156,
+    "totalMatches": 745,
+    "winRate": 79.06,
+    "founded": 2012,
+    "yearlyStats": [
+      { "year": 2023, "wins": 189, "losses": 48, "tournaments": 13 },
+      { "year": 2024, "wins": 200, "losses": 54, "tournaments": 15 },
+      { "year": 2025, "wins": 200, "losses": 54, "tournaments": 14 }
+    ]
+  },
+  {
+    "id": "t8",
+    "name": "OpTic Gaming",
+    "game": "Valorant",
+    "region": "North America",
+    "wins": 356,
+    "losses": 212,
+    "totalMatches": 568,
+    "winRate": 62.68,
+    "founded": 2021,
+    "yearlyStats": [
+      { "year": 2023, "wins": 112, "losses": 68, "tournaments": 9 },
+      { "year": 2024, "wins": 122, "losses": 72, "tournaments": 10 },
+      { "year": 2025, "wins": 122, "losses": 72, "tournaments": 9 }
+    ]
+  },
+  {
+    "id": "t9",
+    "name": "San Francisco Shock",
+    "game": "Overwatch 2",
+    "region": "North America",
+    "wins": 278,
+    "losses": 134,
+    "totalMatches": 412,
+    "winRate": 67.48,
+    "founded": 2017,
+    "yearlyStats": [
+      { "year": 2023, "wins": 86, "losses": 42, "tournaments": 6 },
+      { "year": 2024, "wins": 96, "losses": 46, "tournaments": 7 },
+      { "year": 2025, "wins": 96, "losses": 46, "tournaments": 6 }
+    ]
+  },
+  {
+    "id": "t10",
+    "name": "Gen.G Esports",
+    "game": "League of Legends",
+    "region": "Asia",
+    "wins": 445,
+    "losses": 189,
+    "totalMatches": 634,
+    "winRate": 70.19,
+    "founded": 2017,
+    "yearlyStats": [
+      { "year": 2023, "wins": 142, "losses": 60, "tournaments": 11 },
+      { "year": 2024, "wins": 151, "losses": 64, "tournaments": 12 },
+      { "year": 2025, "wins": 152, "losses": 65, "tournaments": 11 }
+    ]
+  },
+  {
+    "id": "t11",
+    "name": "Fnatic",
+    "game": "Counter-Strike 2",
+    "region": "Europe",
+    "wins": 398,
+    "losses": 176,
+    "totalMatches": 574,
+    "winRate": 69.34,
+    "founded": 2004,
+    "yearlyStats": [
+      { "year": 2023, "wins": 126, "losses": 56, "tournaments": 10 },
+      { "year": 2024, "wins": 136, "losses": 60, "tournaments": 11 },
+      { "year": 2025, "wins": 136, "losses": 60, "tournaments": 10 }
+    ]
+  },
+  {
+    "id": "t12",
+    "name": "Team Spirit",
+    "game": "Dota 2",
+    "region": "Europe",
+    "wins": 312,
+    "losses": 148,
+    "totalMatches": 460,
+    "winRate": 67.83,
+    "founded": 2015,
+    "yearlyStats": [
+      { "year": 2023, "wins": 98, "losses": 46, "tournaments": 8 },
+      { "year": 2024, "wins": 107, "losses": 51, "tournaments": 9 },
+      { "year": 2025, "wins": 107, "losses": 51, "tournaments": 8 }
+    ]
+  }
+]
